@@ -3,7 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Placa2
+  - Placa3
+  - Placa1
+  - Grid1
+  - Grid2
+  - Grid3
+  - Grid4
+  - Grid5
+  - Grid6
+  - Grid7
+  - Grid8
+  - Grid9
   layers:
   - Default
   - TransparentFX
